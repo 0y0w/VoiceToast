@@ -1,6 +1,6 @@
 /**
  * @name VoiceToast
- * @version 1.3.4
+ * @version 1.3.5
  * @author wi050(y0)
  * @authorId 859300569905627148
  * @description Adds Toast Windows to your selected Voice Channel to Findout Who Join or Leave.
